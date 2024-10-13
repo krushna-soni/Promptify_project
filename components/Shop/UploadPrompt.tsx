@@ -277,7 +277,7 @@ const UploadPrompt = (props: Props) => {
               <SelectItem
                 key={item.title}
                 value={item.title}
-                className="text-black"
+                className="text-white"
               >
                 {item.title}
               </SelectItem>
